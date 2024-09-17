@@ -1,0 +1,6 @@
+Hello
+This is the second line of this example file
+This is a random address
+Randomgatan 22, Albanova, Stockholm, Sweden
+And this is a random phone number
+0819338970
